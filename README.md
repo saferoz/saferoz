@@ -44,7 +44,7 @@ I also build AI-assisted tools, internal systems, interactive data products, and
 
 Producing aviation media at **OxfordSaudia Flight Academy** since 2022.
 
-I've also worked across aviation, automotive, corporate, lifestyle, events, and cultural projects in Saudi Arabia.
+My work spans filmmaking, aviation media, creative direction, and visual storytelling.
 
 </td>
 </tr>
@@ -73,21 +73,11 @@ I've also worked across aviation, automotive, corporate, lifestyle, events, and 
 
 ---
 
-## Things I've worked on
+A lot of what I do comes back to the same thing: understanding how something works, finding what's annoying about it, and figuring out a better way to communicate it or build it.
 
-**[RYDAN](https://rydan.radenhanifa.com)**  
-Aviation software I'm currently building around preflight planning and operational workflows.
+Sometimes that means software. Sometimes it's a film, a campaign, or a camera in an airplane.
 
-**OxfordSaudia Flight Academy**  
-Aviation media production since 2022.
-
-**Selected production work**  
-Projects involving **Saudia, Cadillac**, aviation, automotive, corporate, lifestyle, and cultural brands.
-
-**Indonesia Fashion Night 2025**  
-Marketing & Creative Director for the event at the Embassy of Indonesia in Riyadh.
-
-<br>
+Outside of that, I'm into aviation, technology, photography, films, and probably more video games than I should be.
 
 <p align="center">
   <img src="./assets/raden-cockpit.jpg"
