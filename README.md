@@ -90,25 +90,6 @@ Personal portfolio built around the aviation/creative split. Dark-light theming,
 <tr>
 <td valign="top" width="50%">
 
-### 🧪 &nbsp;Project three
-One or two lines on what it does and who it's for.
-
-<sub>`Stack` `Goes` `Here`</sub>
-
-<a href="#">Repo&nbsp;→</a>
-
-</td>
-<td valign="top" width="50%">
-
-### 📊 &nbsp;Project four
-One or two lines on what it does and who it's for.
-
-<sub>`Stack` `Goes` `Here`</sub>
-
-<a href="#">Repo&nbsp;→</a>
-
-</td>
-</tr>
 </table>
 
 ---
