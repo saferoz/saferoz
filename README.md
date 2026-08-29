@@ -22,7 +22,12 @@ My path into technology is unconventional. I bring real operational context, pro
 - Marketing and Creative Director for Indonesia Fashion Night 2025 at the Embassy of Indonesia in Riyadh.
 
 <p align="center">
-  <img src="./assets/raden-cockpit.jpg" alt="Raden Hanifa in the cockpit during golden hour" width="50%" /> <img src="./assets/aviation-media-production.jpg" alt="Raden Hanifa with an aviation media production team" width="50%" />
+  <img src="./assets/raden-cockpit.jpg"
+       alt="Raden Hanifa in the cockpit during golden hour"
+       width="49%" />
+  <img src="./assets/aviation-media-production.jpg"
+       alt="Raden Hanifa with an aviation media production team"
+       width="49%" />
 </p>
 
 
