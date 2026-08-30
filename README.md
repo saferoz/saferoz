@@ -24,7 +24,7 @@ Outside of work, I'm into aviation, technology, photography, films, and probably
 <br />
 
 <p align="center">
-  <img src="./assets/raden-cockpit-circle.png" alt="Raden flying during golden hour" width="140" height="140" />
+  <img src="./assets/raden-cockpit.png" alt="Raden flying during golden hour" width="140" height="140" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/aviation-media-production-circle.png" alt="Raden working with an aviation media production team" width="140" height="140" />
+  <img src="./assets/aviation-media-production.png" alt="Raden working with an aviation media production team" width="140" height="140" />
 </p>
