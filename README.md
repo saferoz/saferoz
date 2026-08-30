@@ -1,104 +1,30 @@
 # Hi, I'm Raden 👋
 
-**Pilot · Builder · Filmmaker**
+I'm [Raden](https://cv.radenhanifa.com), a pilot, builder, and filmmaker based in Dammam, Saudi Arabia.
 
-I'm based in Dammam, Saudi Arabia.
+I started out in aviation and media, then got into software because I kept finding tools I wished existed. These days I'm usually somewhere between airplanes, cameras, Figma, code, and AI tools.
 
-I started out in aviation and media, and somewhere along the way I got into building software too. These days I spend most of my time somewhere between airplanes, cameras, Figma, code, and AI tools.
+I'm currently building [RYDAN](https://rydan.radenhanifa.com), an aviation project focused on making preflight and operational workflows simpler.
 
-I like building things around problems I've actually encountered — especially in aviation and other operational environments.
+I have a GACA Private Pilot Licence and Instrument Rating, with more than 300 hours—mostly on the DA40 NG. Since 2022, I've also produced aviation media at OxfordSaudia Flight Academy.
 
----
+I build software with AI coding agents. I'm most interested in practical tools based on problems I've actually encountered, especially in aviation and other operational environments. Sometimes the answer is software. Sometimes it's a film, a campaign, or a camera in an airplane.
 
-## Right now
+Outside of work, I'm into aviation, technology, photography, films, and probably more video games than I should be.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+#### Let's connect
 
-<strong>✈️ &nbsp;Fly</strong>
-
-<br>
-
-GACA Private Pilot Licence + Instrument Rating.
-
-Mostly flying the **DA40 NG**.
-
-</td>
-<td width="33%" valign="top">
-
-<strong>💻 &nbsp;Build</strong>
-
-<br>
-
-Building **[RYDAN](https://rydan.radenhanifa.com)** — aviation software focused on making preflight and operational workflows simpler.
-
-I also build AI-assisted tools, internal systems, interactive data products, and the occasional weird experiment.
-
-</td>
-<td width="33%" valign="top">
-
-<strong>🎥 &nbsp;Make</strong>
-
-<br>
-
-Producing aviation media at **OxfordSaudia Flight Academy** since 2022.
-
-My work spans filmmaking, aviation media, creative direction, and visual storytelling.
-
-</td>
-</tr>
-</table>
-
----
-
-## Flight deck
-
-<table>
-<tr>
-<td align="center" width="33%">
-<strong>300+</strong><br>
-<sub>FLIGHT HOURS</sub>
-</td>
-<td align="center" width="33%">
-<strong>PPL + IR</strong><br>
-<sub>GACA LICENCES</sub>
-</td>
-<td align="center" width="33%">
-<strong>DA40 NG</strong><br>
-<sub>PRIMARY AIRCRAFT</sub>
-</td>
-</tr>
-</table>
-
----
-
-A lot of what I do comes back to the same thing: understanding how something works, finding what's annoying about it, and figuring out a better way to communicate it or build it.
-
-Sometimes that means software. Sometimes it's a film, a campaign, or a camera in an airplane.
-
-Outside of that, I'm into aviation, technology, photography, films, and probably more video games than I should be.
-
-<p align="center">
-  <img src="./assets/raden-cockpit.jpg"
-       alt="Raden flying"
-       width="49%" />
-  <img src="./assets/aviation-media-production.jpg"
-       alt="Aviation media production"
-       width="49%" />
-</p>
-
-<p align="center">
-  <sub>Somewhere between flying, building, and making things.</sub>
-</p>
-
----
-
-## Elsewhere
-
-<p align="center">
-  <a href="https://cv.radenhanifa.com"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+<p>
+  <a href="https://cv.radenhanifa.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://rydan.radenhanifa.com"><img src="https://img.shields.io/badge/RYDAN-0B1F3A?style=for-the-badge&logo=airplane&logoColor=white" alt="RYDAN" /></a>
-  <a href="https://www.linkedin.com/in/radenhanifa/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:radenhanif00@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/radenhanifa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:radenhanif00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./assets/raden-cockpit-circle.png" alt="Raden flying during golden hour" width="140" height="140" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/aviation-media-production-circle.png" alt="Raden working with an aviation media production team" width="140" height="140" />
 </p>
