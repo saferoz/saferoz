@@ -8,7 +8,7 @@ I'm currently building [RYDAN](https://rydan.radenhanifa.com), an aviation proje
 
 I have a GACA Private Pilot Licence and Instrument Rating, with more than 300 hours—mostly on the DA40 NG. Since 2022, I've also produced aviation media at OxfordSaudia Flight Academy.
 
-I build software with AI coding agents. I'm most interested in practical tools based on problems I've actually encountered, especially in aviation and other operational environments. Sometimes the answer is software. Sometimes it's a film, a campaign, or a camera in an airplane.
+I'm most interested in practical tools based on problems I've actually encountered, especially in aviation and other operational environments. Sometimes the answer is software. Sometimes it's a film, a campaign, or a camera in an airplane.
 
 Outside of work, I'm into aviation, technology, photography, films, and probably more video games than I should be.
 
